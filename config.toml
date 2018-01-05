@@ -9,3 +9,28 @@ theme = "divertise"
   facebook = "DivertiseAsia"
   linkedin = "divertiseasia"
   github = "DivertiseAsia"
+
+[Params]
+  subtitle = "Build a beautiful and simple website in minutes"
+  logo = "img/Logo.svg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Careers"
+    url = "post/2016-03-08-code-sample"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 3
