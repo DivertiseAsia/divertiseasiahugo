@@ -1,4 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Divertise Asia"
 theme = "divertise"
+
+[Author]
+  name = "Divertise Asia Co., Ltd."
+  email = "contact@divertise.asia"
+  facebook = "DivertiseAsia"
+  linkedin = "divertiseasia"
+  github = "DivertiseAsia"
